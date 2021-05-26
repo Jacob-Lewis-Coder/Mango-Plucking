@@ -10,7 +10,7 @@ var treeImage, boyImage;
 function preload(){
 	//load tree image and boy image
 	treeImage = loadImage("tree.png");
-	boyImage = loadImage("boy.png");
+	boyImage = loadImage("Boy.png");
 }
 
 function setup() {
